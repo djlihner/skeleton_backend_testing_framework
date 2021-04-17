@@ -1,6 +1,6 @@
 {
   "name": "skeleton_backend_testing_framework",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "inspired by https://github.com/xotabu4/create-api-testing-project",
   "main": "index.js",
   "scripts": {
@@ -9,9 +9,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/djlihner/skeleton_backend_testing_framework.git"
-  },
-  "bin": {
-    "create-api-testing-project": "./index.js"
   },
   "dependencies": {
     "ncp": "2.0.0"
