@@ -1,0 +1,26 @@
+{
+  "name": "skeleton_backend_testing_framework",
+  "version": "1.0.0",
+  "description": "inspired by https://github.com/xotabu4/create-api-testing-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djlihner/skeleton_backend_testing_framework.git"
+  },
+  "bin": {
+    "create-api-testing-project": "./index.js"
+  },
+  "dependencies": {
+    "ncp": "2.0.0"
+  },
+  "keywords": [],
+  "author": "Dmitriy Lihner <djlihner@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djlihner/skeleton_backend_testing_framework/issues"
+  },
+  "homepage": "https://github.com/djlihner/skeleton_backend_testing_framework#readme"
+}
