@@ -1,6 +1,6 @@
 {
    "name": "skeleton_backend_testing_framework",
-   "version": "1.0.2",
+   "version": "1.0.3",
    "description": "inspired by https://github.com/xotabu4/create-api-testing-project",
    "main": "index.js",
    "scripts": {
